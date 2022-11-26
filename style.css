@@ -1,0 +1,27 @@
+body{
+    background-image: url("giphy.gif");
+    background-repeat:repeat;
+    justify-content: center;
+    display: flex;
+}
+#search{
+    border-style:groove;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 2px;
+}
+#window{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:962px;
+    height:526px;
+}
+#webpage{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
