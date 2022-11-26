@@ -4,12 +4,6 @@ body{
     justify-content: center;
     display: flex;
 }
-#search{
-    border-style:groove;
-    border-radius: 5px;
-    border-width: 1px;
-    padding: 2px;
-}
 #window{
     background-color: white;
     position: absolute;
